@@ -1,3 +1,5 @@
+//Short Processing sketch using for-loop and cos and sin functions to distribute 100,000 points across an x,y-plane
+
 void setup() {
   size(600, 600);
   background(0);
